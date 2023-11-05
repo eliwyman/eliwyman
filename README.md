@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliwyman - Elliot Wyman
-- 👀 I’m interested in Data Science, Data Analytics.
-- 🌱 I’m currently learning to fine-tune Machine Learning models, using Python, Sci-Kit, Keras.
+- 👀 MSc. Data Science with a Business Analytics Specialization.
+- 🌱 AI, ML, NLP, Python, Sci-Kit, Keras.
 - 💞️ I’m looking to collaborate on Data Science and Data Analysis projects involving data that affects our general population and community.
 - 📫 Reach me at elliotwyman@gmail.com
 
